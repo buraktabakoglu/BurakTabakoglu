@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate Back-End developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **GO**
 
 - 📫 How to reach me **burak.tabakogluu@gmail.com**
 
